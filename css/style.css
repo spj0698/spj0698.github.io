@@ -73,6 +73,7 @@ body {
 /* Showcase Area */
 #showcase {
     background: url(../images/photo-1529465230221-a0d10e46fcbb.jpg) no-repeat center center/cover;
+    background-size: cover;
     height: 86.1vh;
 }
 
@@ -133,7 +134,7 @@ body {
     margin-bottom: 1rem;
 }
 
-#about p.lead {
+#about p {
     margin-bottom: 1rem;
     word-spacing: normal;
 }
